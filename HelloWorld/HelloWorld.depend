@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461166131 source:/home/rfishy1/CBProjects/HelloWorld/main.cpp
+	<iostream>
+	"add.h"
+
+1461165882 source:/home/rfishy1/CBProjects/HelloWorld/add.cpp
+
+1461166131 /home/rfishy1/CBProjects/HelloWorld/add.h
+
