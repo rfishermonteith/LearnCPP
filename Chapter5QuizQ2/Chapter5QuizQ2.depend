@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461608135 source:/home/rfishy1/Documents/CBProjects/LearnCPP/Chapter5QuizQ2/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
