@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461606667 source:/home/rfishy1/Documents/CBProjects/LearnCPP/Chapter5QuizQ1/main.cpp
+	<iostream>
+	"constants.h"
+
+1461606326 /home/rfishy1/Documents/CBProjects/LearnCPP/Chapter5QuizQ1/constants.h
+
